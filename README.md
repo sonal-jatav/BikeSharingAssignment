@@ -52,7 +52,7 @@ weathersit__Light Snow, Light Rain + Thunderstorm + Scattered clouds, Light Rain
 weathersit__Mist + Cloudy, Mist + Broken clouds, Mist + Few clouds, Mist
 
 ## How well those variables describe the bike demands:
-Bike demand counts are lower in case of weather with Mist + Cloudy, Mist + Broken clouds, Mist + Few clouds, Mis
+Bike demand counts are lower in case of weather with Mist + Cloudy, Mist + Broken clouds, Mist + Few clouds
 Bike demand counts are higher at higher temperature
 Bike demand counts are lower in spring
 Bike demand counts are lower in case of weather with Light Snow, Light Rain + Thunderstorm + Scattered clouds, Light Rain + Scattered clouds
